@@ -50,6 +50,7 @@ const landing = `
 		}
 
 		.container {
+			text-align: center;
 			height: 100vh;
 			width: 100%;
 			max-width: 600px;
@@ -60,7 +61,6 @@ const landing = `
 		}
 
 		.input-container {
-
 			display: flex;
 			align-items: center;
 			margin-bottom: 10px;
