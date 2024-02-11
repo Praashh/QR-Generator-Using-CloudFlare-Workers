@@ -104,7 +104,7 @@ const landing = `
 <body>
 	<div class="container">
 		<h1>QR Generator</h1>
-		<p>Click the below button to generate a new QR code. This will make a request to your Worker.</p>
+		<p>Click the below button to generate a new QR code.</p>
 		<div class="input-container">
 			<input type="text" id="text" value="https://github.com/Praashh">
 			<button onclick="generate()">Generate QR Code</button>
